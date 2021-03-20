@@ -1,0 +1,56 @@
+header {
+    display: flex;
+    background-color: #C80000;
+    height: 100px;
+    color: white;
+    align-items: center;
+}
+
+.main_container {
+    height: 480px;
+}
+
+table th {
+    background-color: #FFDFDF;
+    padding: 10px 20px;
+    text-align: center;
+    bordercolor: black;
+}
+
+table td {
+    background-color: #FFE4E1;
+    padding: 10px 20px;
+    bordercolor: black;
+    text-align: center;
+}
+
+
+.notice {
+    display: block;
+    background-color: #EC98AC8F;
+    padding: 5px;
+    border: 2px solid #7facc9;
+    width: 500px;
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    background-color: #C80000;
+    height: 100px;
+    color: white;
+    align-items: center;
+}
+
+.form {
+    width: 300px;
+    height: 30px;
+}
+
+.schedule-form {
+    width: 300px;
+    height: 200px;
+    // text-align:left !important;
+    text-align: top;
+
+}
